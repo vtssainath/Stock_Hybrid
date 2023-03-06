@@ -18,7 +18,7 @@ public class DriverScript
 {
 	public static WebDriver driver;
 	String inputpath = "C:\\Users\\tejas\\eclipse-workspace\\StockAccounting_ERP\\FileInput\\DataEngine.xlsx";
-	String outputpath = "C:\\Users\\tejas\\eclipse-workspace\\StockAccounting_ERP\\FileOutput\\DataEngine.xlsx";
+	String outputpath = "C:\\Users\\tejas\\eclipse-workspace\\StockAccounting_ERP\\FileOutput\\HybridResults.xlsx";
 	ExtentReports reports;
 	ExtentTest test;
 	String Description;
